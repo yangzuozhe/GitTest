@@ -7,4 +7,7 @@ package com.example.gittest;
  * @date 2020-12-18
  */
 public class Test1 {
+    public void initView(){
+
+    }
 }
